@@ -13,4 +13,4 @@ The application has the following APIs:
 * Add item to stock
 * Delete an item from stock
 
-<kbd><img src="images/swagger-ui.PNG" width="300"></kbd>
+<kbd><img src="images/swagger-ui.PNG" width="450"></kbd>
