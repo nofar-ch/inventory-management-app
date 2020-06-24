@@ -1,5 +1,5 @@
 # inventory-management-app
-inventory management application
+Inventory Management Application
 
 **A spring-boot application with a REST controller, which expose a Swagger API catalog.**<br/>
 Data should be persisted on H2 DB using JPA.
